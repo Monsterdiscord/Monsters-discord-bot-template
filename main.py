@@ -46,7 +46,7 @@ async def ban(ctx, member : discord.Member):
 
 @Monster.command()
 async def credits(ctx):
-    embed=discord.Embed(title="**======== *Ghostface Credits* ========**", description=f"""
+    embed=discord.Embed(title="**======== *Your_bots_name Credits* ========**", description=f"""
                   Developer: 
 
                   Sub-Developer:
